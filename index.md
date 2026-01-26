@@ -1,18 +1,11 @@
----
-layout: default
----
+The rapid evolution of global financial systems has provided new opportunities for sophisticated criminal networks. To counter these threats, it is no longer enough to develop isolated tools; we must build a unified front. This workshop is dedicated to establishing a collaborative research and development ecosystem specifically focused on AI technology to combat financial crime.
+By bringing together industry practitioners, governmental agencies, and academic researchers, we aim to ensure that the next generation of AI innovation is directly informed by operational reality and legal necessity.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Goals and Vision
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Integrated R&D:** Shift from fragmented pilot projects to a sustainable ecosystem where research priorities are aligned with the frontline needs of banks and investigators.
+**Operationalizing AI:** Identify and overcome the technical, regulatory and organisational barriers to deploying AI in high-stakes environments, such as Anti-Money Laundering (AML) and fraud detection.
+**Knowledge Exchange:**  Promote the exchange of research ideas and results between academic researchers,  and the practitioners who apply them in the field.
 
 ## Header 2
 
