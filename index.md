@@ -1,4 +1,6 @@
-The rapid evolution of global financial systems has provided new opportunities for sophisticated criminal networks. To counter these threats, it is no longer enough to develop isolated tools; we must build a unified front. This workshop is dedicated to establishing a collaborative research and development ecosystem specifically focused on AI technology to combat financial crime.
+The rapid evolution of global financial systems has provided new opportunities for sophisticated criminal networks. To counter these threats, it is no longer enough to develop isolated tools; we must build a unified front. 
+
+This workshop is dedicated to establishing a collaborative research and development ecosystem specifically focused on AI technology to combat financial crime.
 By bringing together industry practitioners, governmental agencies, and academic researchers, we aim to ensure that the next generation of AI innovation is directly informed by operational reality and legal necessity.
 
 # Goals and Vision
