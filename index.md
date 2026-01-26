@@ -28,14 +28,14 @@ For PhD candidates and researchers, we invite you to present your research durin
 
 | Time              | Session                              |
 | ----------------- | ------------------------------------ |
-| **09:00 – 09:30** | Registration & Coffee                |
-| **09:30 – 09:45** | Opening Remarks                      |
-| **09:45 – 10:30** | **Keynote 1 (Industry)** + Q&A       |
+| **09:00 – 09:30** | Registration & coffee                |
+| **09:30 – 09:45** | Opening remarks                      |
+| **09:45 – 10:30** | Keynote 1 (Industry perspective)     |
 | **10:30 – 10:40** | Break                                |
-| **10:40 – 11:25** | **Keynote 2 (Academic Perspective)** |
+| **10:40 – 11:25** | Keynote 2 (Academic perspective)     |
 | **11:25 – 11:35** | Break                                |
-| **11:35 – 12:10** | Flash Presentations                  |
-| **12:10 – 13:20** | Lunch & Poster Session               |
+| **11:35 – 12:10** | Flash poster presentations           |
+| **12:10 – 13:20** | Lunch & poster pession               |
 
 
 
@@ -43,13 +43,13 @@ For PhD candidates and researchers, we invite you to present your research durin
 
 | Time              | Session                          |
 | ----------------- | -------------------------------- |
-| **13:20 – 14:00** | Panel Discussion                 |
+| **13:20 – 14:00** | Panel discussion                 |
 | **14:00 – 14:10** | Break                            |
-| **14:10 – 15:10** | Presentations (3 × 20 min)       |
+| **14:10 – 15:10** | Research presentations           |
 | **15:10 – 15:20** | Break                            |
-| **15:20 – 16:00** | Breakout “Sandpit” Sessions      |
-| **16:00 – 16:20** | Report Out from Sandpit Sessions |
-| **16:20 – 16:30** | Closing Remarks                  |
-| **16:30 – 17:30** | Networking Drinks 🍸             |
+| **15:20 – 16:00** | Breakout “sandpit” sessions      |
+| **16:00 – 16:20** | Report out from sandpit sessions |
+| **16:20 – 16:30** | Closing remarks                  |
+| **16:30 – 17:30** | Networking drinks 🍸             |
 
 
