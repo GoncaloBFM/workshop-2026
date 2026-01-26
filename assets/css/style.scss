@@ -3,6 +3,10 @@
 
 @import 'jekyll-theme-cayman';
 
-h1 {
+h2 {
   color: black;
+}
+
+.page-header { 
+    background-image: linear-gradient(120deg, #1a1a1a, #159957);
 }
