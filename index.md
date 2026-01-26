@@ -19,105 +19,32 @@ By bringing together industry practitioners, governmental agencies, and academic
 
 The goal of this workshop is to ensure that the cutting edge of AI research is translated into powerful, actionable technology that protects the integrity of the global financial system.
 
+##Poster Session
+For PhD candidates and researchers, we invite you to present your research during our Poster Session, where you can receive direct feedback from the practitioners and law enforcement leads who deal with these challenges daily. This is your chance to showcase your innovations to potential collaborators, find practical applications for your models, and play a defining role in building a safer financial future.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+#Program  
+##🌅 Morning 
+| Time              | Duration | Session                          |
+| ----------------- | -------- | -------------------------------- |
+| **13:20 – 14:00** | 40 min   | Panel Discussion                 |
+| **14:00 – 14:10** | 10 min   | Break                            |
+| **14:10 – 15:10** | 60 min   | Presentations (3 × 20 min)       |
+| **15:10 – 15:20** | 10 min   | Break                            |
+| **15:20 – 16:00** | 40 min   | Breakout “Sandpit” Sessions      |
+| **16:00 – 16:20** | 20 min   | Report Out from Sandpit Sessions |
+| **16:20 – 16:30** | 10 min   | Closing Remarks                  |
+| **16:30 – 17:30** | 60 min   | Networking Drinks 🍸             |
 
 
-### Definition lists can be used with HTML syntax.
+##🌤 Afternoon 
+| Time              | Duration | Session                              |
+| ----------------- | -------- | ------------------------------------ |
+| **09:00 – 09:30** | 30 min   | Registration & Coffee                |
+| **09:30 – 09:45** | 15 min   | Opening Remarks                      |
+| **09:45 – 10:30** | 45 min   | **Keynote 1 (Industry)** + Q&A       |
+| **10:30 – 10:40** | 10 min   | Break                                |
+| **10:40 – 11:25** | 45 min   | **Keynote 2 (Academic Perspective)** |
+| **11:25 – 11:35** | 10 min   | Break                                |
+| **11:35 – 12:10** | 35 min   | Flash Presentations                  |
+| **12:10 – 13:20** | 70 min   | Lunch & Poster Session               |
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
