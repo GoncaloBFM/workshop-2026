@@ -22,8 +22,9 @@ The goal of this workshop is to ensure that the cutting edge of AI research is t
 ##Poster Session
 For PhD candidates and researchers, we invite you to present your research during our Poster Session, where you can receive direct feedback from the practitioners and law enforcement leads who deal with these challenges daily. This is your chance to showcase your innovations to potential collaborators, find practical applications for your models, and play a defining role in building a safer financial future.
 
-#Program  
-##🌅 Morning 
+# Program  
+## 🌅 Morning 
+
 | Time              | Duration | Session                          |
 | ----------------- | -------- | -------------------------------- |
 | **13:20 – 14:00** | 40 min   | Panel Discussion                 |
@@ -36,7 +37,9 @@ For PhD candidates and researchers, we invite you to present your research durin
 | **16:30 – 17:30** | 60 min   | Networking Drinks 🍸             |
 
 
-##🌤 Afternoon 
+
+## 🌤 Afternoon 
+
 | Time              | Duration | Session                              |
 | ----------------- | -------- | ------------------------------------ |
 | **09:00 – 09:30** | 30 min   | Registration & Coffee                |
