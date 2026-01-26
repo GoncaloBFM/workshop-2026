@@ -19,7 +19,7 @@ By bringing together industry practitioners, governmental agencies, and academic
 
 The goal of this workshop is to ensure that the cutting edge of AI research is translated into powerful, actionable technology that protects the integrity of the global financial system.
 
-##Poster Session
+## Poster Session
 For PhD candidates and researchers, we invite you to present your research during our Poster Session, where you can receive direct feedback from the practitioners and law enforcement leads who deal with these challenges daily. This is your chance to showcase your innovations to potential collaborators, find practical applications for your models, and play a defining role in building a safer financial future.
 
 <a name="program"></a>
