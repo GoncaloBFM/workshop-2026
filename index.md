@@ -25,28 +25,30 @@ For PhD candidates and researchers, we invite you to present your research durin
 # Program  
 ## 🌅 Morning 
 
-| Time              | Duration | Session                              |
-| ----------------- | -------- | ------------------------------------ |
-| **09:00 – 09:30** | 30 min   | Registration & Coffee                |
-| **09:30 – 09:45** | 15 min   | Opening Remarks                      |
-| **09:45 – 10:30** | 45 min   | **Keynote 1 (Industry)** + Q&A       |
-| **10:30 – 10:40** | 10 min   | Break                                |
-| **10:40 – 11:25** | 45 min   | **Keynote 2 (Academic Perspective)** |
-| **11:25 – 11:35** | 10 min   | Break                                |
-| **11:35 – 12:10** | 35 min   | Flash Presentations                  |
-| **12:10 – 13:20** | 70 min   | Lunch & Poster Session               |
+| Time              | Session                              |
+| ----------------- | ------------------------------------ |
+| **09:00 – 09:30** | Registration & Coffee                |
+| **09:30 – 09:45** | Opening Remarks                      |
+| **09:45 – 10:30** | **Keynote 1 (Industry)** + Q&A       |
+| **10:30 – 10:40** | Break                                |
+| **10:40 – 11:25** | **Keynote 2 (Academic Perspective)** |
+| **11:25 – 11:35** | Break                                |
+| **11:35 – 12:10** | Flash Presentations                  |
+| **12:10 – 13:20** | Lunch & Poster Session               |
+
 
 
 ## 🌤 Afternoon 
 
-| Time              | Duration | Session                          |
-| ----------------- | -------- | -------------------------------- |
-| **13:20 – 14:00** | 40 min   | Panel Discussion                 |
-| **14:00 – 14:10** | 10 min   | Break                            |
-| **14:10 – 15:10** | 60 min   | Presentations (3 × 20 min)       |
-| **15:10 – 15:20** | 10 min   | Break                            |
-| **15:20 – 16:00** | 40 min   | Breakout “Sandpit” Sessions      |
-| **16:00 – 16:20** | 20 min   | Report Out from Sandpit Sessions |
-| **16:20 – 16:30** | 10 min   | Closing Remarks                  |
-| **16:30 – 17:30** | 60 min   | Networking Drinks 🍸             |
+| Time              | Session                          |
+| ----------------- | -------------------------------- |
+| **13:20 – 14:00** | Panel Discussion                 |
+| **14:00 – 14:10** | Break                            |
+| **14:10 – 15:10** | Presentations (3 × 20 min)       |
+| **15:10 – 15:20** | Break                            |
+| **15:20 – 16:00** | Breakout “Sandpit” Sessions      |
+| **16:00 – 16:20** | Report Out from Sandpit Sessions |
+| **16:20 – 16:30** | Closing Remarks                  |
+| **16:30 – 17:30** | Networking Drinks 🍸             |
+
 
