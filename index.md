@@ -37,7 +37,7 @@ For **PhD candidates and researchers**, we invite you to present your research d
 | **10:40 – 11:25** | Keynote 2 (Academic perspective)     |
 | **11:25 – 11:35** | Break                                |
 | **11:35 – 12:10** | Flash poster presentations           |
-| **12:10 – 13:20** | Lunch & poster pession               |
+| **12:10 – 13:20** | Lunch & poster session               |
 
 
 
