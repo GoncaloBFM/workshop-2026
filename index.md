@@ -26,7 +26,7 @@ For **PhD candidates and researchers**, we invite you to present your research d
 
 <a name="program"></a>
 # Program  
-## 🌅 Morning 
+## Morning 
 
 | Time              | Session                              |
 | ----------------- | ------------------------------------ |
@@ -41,7 +41,7 @@ For **PhD candidates and researchers**, we invite you to present your research d
 
 
 
-## 🌤 Afternoon 
+## Afternoon 
 
 | Time              | Session                          |
 | ----------------- | -------------------------------- |
