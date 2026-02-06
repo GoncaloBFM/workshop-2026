@@ -28,16 +28,16 @@ For **PhD candidates and researchers**, we invite you to present your research d
 # Program  
 ## Morning 
 
-| Time              | Session                                                                                                                                                                          |
-| ----------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **09:00 – 09:30** | Registration & coffee                                                                                                                                                            |
-| **09:30 – 09:45** | Opening remarks                                                                                                                                                                  |
-| **09:45 – 10:30** | Keynote 1 - Daniël Meel, Head of Innovation, Design & Change, Detecting Financial Crime at ABN AMRO Bank N.V.                                                                    |
-| **10:30 – 10:40** | Break                                                                                                                                                                            |
-| **10:40 – 11:25** | Keynote 2 - Evert Haasdijk, AI expert at Deloitte Forensic & Financial Crime and Professor AI Methods for Preventing and Detecting Financial Crime, University of Amsterdam |
-| **11:25 – 11:35** | Break                                                                                                                                                                            |
-| **11:35 – 12:10** | Flash poster presentations                                                                                                                                                       |
-| **12:10 – 13:20** | Lunch & poster session                                                                                                                                                           |
+| Time              | Session                                                                                                                                               |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **09:00 – 09:30** | Registration & coffee                                                                                                                                 |
+| **09:30 – 09:45** | Opening remarks                                                                                                                                       |
+| **09:45 – 10:30** | Keynote - Daniël Meel, Head of Innovation, Design & Change, Detecting Financial Crime at ABN AMRO Bank                                                |
+| **10:30 – 10:40** | Break                                                                                                                                                 |
+| **10:40 – 11:25** | Keynote - Evert Haasdijk, AI expert at Deloitte Forensic & Financial Crime and Professor Applied AI for Preventing and Detecting Financial Crime, UvA |
+| **11:25 – 11:35** | Break                                                                                                                                                 |
+| **11:35 – 12:10** | Flash poster presentations                                                                                                                            |
+| **12:10 – 13:20** | Lunch & poster session                                                                                                                                |
 
 
 
