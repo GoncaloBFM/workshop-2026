@@ -57,8 +57,8 @@ For **PhD candidates and researchers**, we invite you to present your research d
 
 # Important Dates
 
-**Registration deadline** If you want to present a poster: 12 April 2026, otherwise: 24 April 2026
+**Registration deadline** If you want to present a poster 12 April 2026, otherwise 24 April 2026
 
-**Notification of Acceptance for Poster Presentations** 21 April 2026 
+**Notification of acceptance for poster presentations** 21 April 2026 
 
 **Workshop date**  6 May 2026
