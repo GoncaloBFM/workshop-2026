@@ -30,14 +30,14 @@ For **PhD candidates and researchers**, we invite you to present your research d
 
 | Time              | Session                                                                                                                                               |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **09:00&nbsp;–&nbsp;09:30** | Registration & coffee                                                                                                                                 |
-| **09:30&nbsp;–&nbsp;09:45** | Opening remarks                                                                                                                                       |
-| **09:45&nbsp;–&nbsp;10:30** | Keynote - Daniël Meel, Head of Innovation, Design & Change, Detecting Financial Crime at ABN AMRO Bank                                                |
-| **10:30&nbsp;–&nbsp;10:40** | Break                                                                                                                                                 |
-| **10:40&nbsp;–&nbsp;11:25** | Keynote - Evert Haasdijk, AI expert at Deloitte Forensic & Financial Crime and Professor Applied AI for Preventing and Detecting Financial Crime, UvA |
-| **11:25&nbsp;–&nbsp;11:35** | Break                                                                                                                                                 |
-| **11:35&nbsp;–&nbsp;12:10** | Flash poster presentations                                                                                                                            |
-| **12:10&nbsp;–&nbsp;13:20** | Lunch & poster session                                                                                                                                |
+|**09:00&nbsp;&#8209;&nbsp;09:30**| Registration & coffee                                                                                                                                 |
+|**09:30&nbsp;&#8209;&nbsp;09:45**| Opening remarks                                                                                                                                       |
+|**09:45&nbsp;&#8209;&nbsp;10:30**| Keynote - Daniël Meel, Head of Innovation, Design & Change, Detecting Financial Crime at ABN AMRO Bank                                                |
+|**10:30&nbsp;&#8209;&nbsp;10:40**| Break                                                                                                                                                 |
+|**10:40&nbsp;&#8209;&nbsp;11:25**| Keynote - Evert Haasdijk, AI expert at Deloitte Forensic & Financial Crime and Professor Applied AI for Preventing and Detecting Financial Crime, UvA |
+|**11:25&nbsp;&#8209;&nbsp;11:35**| Break                                                                                                                                                 |
+|**11:35&nbsp;&#8209;&nbsp;12:10**| Flash poster presentations                                                                                                                            |
+|**12:10&nbsp;&#8209;&nbsp;13:20**| Lunch & poster session                                                                                                                                |
 
 
 
@@ -45,14 +45,14 @@ For **PhD candidates and researchers**, we invite you to present your research d
 
 | Time              | Session                          |
 | ----------------- | -------------------------------- |
-| **13:20 – 14:00** | Panel discussion                 |
-| **14:00 – 14:10** | Break                            |
-| **14:10 – 15:10** | Research presentations           |
-| **15:10 – 15:20** | Break                            |
-| **15:20 – 16:00** | Breakout “sandpit” sessions      |
-| **16:00 – 16:20** | Report out from sandpit sessions |
-| **16:20 – 16:30** | Closing remarks                  |
-| **16:30 – 17:30** | Networking drinks 🍸             |
+| **13:20&nbsp;&#8209;&nbsp;14:00** | Panel discussion                 |
+| **14:00&nbsp;&#8209;&nbsp;14:10** | Break                            |
+| **14:10&nbsp;&#8209;&nbsp;15:10** | Research presentations           |
+| **15:10&nbsp;&#8209;&nbsp;15:20** | Break                            |
+| **15:20&nbsp;&#8209;&nbsp;16:00** | Breakout “sandpit” sessions      |
+| **16:00&nbsp;&#8209;&nbsp;16:20** | Report out from sandpit sessions |
+| **16:20&nbsp;&#8209;&nbsp;16:30** | Closing remarks                  |
+| **16:30&nbsp;&#8209;&nbsp;17:30** | Networking drinks 🍸             |
 
 
 # Important Dates
