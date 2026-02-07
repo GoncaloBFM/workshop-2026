@@ -32,9 +32,9 @@ For **PhD candidates and researchers**, we invite you to present your research d
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |**09:00&nbsp;&#8209;&nbsp;09:30**| Registration & coffee                                                                                                                                 |
 |**09:30&nbsp;&#8209;&nbsp;09:45**| Opening remarks                                                                                                                                       |
-|**09:45&nbsp;&#8209;&nbsp;10:30**| Keynote - Daniël Meel, <br/> Head of Innovation, Design & Change, Detecting Financial Crime at ABN AMRO Bank                                                |
+|**09:45&nbsp;&#8209;&nbsp;10:30**| Keynote - Daniël Meel, Head of Innovation, Design & Change, Detecting Financial Crime at ABN AMRO Bank                                                |
 |**10:30&nbsp;&#8209;&nbsp;10:40**| Break                                                                                                                                                 |
-|**10:40&nbsp;&#8209;&nbsp;11:25**| Keynote - Evert Haasdijk,<br/> AI expert at Deloitte Forensic & Financial Crime and Professor of Applied AI for Preventing and Detecting Financial Crime at UvA |
+|**10:40&nbsp;&#8209;&nbsp;11:25**| Keynote - Evert Haasdijk, AI expert at Deloitte Forensic & Financial Crime and Professor of Applied AI for Preventing and Detecting Financial Crime at UvA |
 |**11:25&nbsp;&#8209;&nbsp;11:35**| Break                                                                                                                                                 |
 |**11:35&nbsp;&#8209;&nbsp;12:10**| Flash poster presentations                                                                                                                            |
 |**12:10&nbsp;&#8209;&nbsp;13:20**| Lunch & poster session                                                                                                                                |
