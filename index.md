@@ -66,7 +66,7 @@ For **PhD candidates and researchers**, we invite you to present your research d
 # Program committee
 <ul class="pc-list">
   <li>
-    <img src="/evert.jpeg">
+    <img src="/evert.jpeg" alt="Evert Haasdijk">
     <div>
       <strong>Evert Haasdijk</strong><br/>
       AI expert at Deloitte Forensic & Financial Crime<br/>
@@ -74,7 +74,7 @@ For **PhD candidates and researchers**, we invite you to present your research d
     </div>
   </li>
   <li>
-    <img src="goncalo.jpeg">
+    <img src="/goncalo.jpeg" alt="Gonçalo Marcelino">
     <div>
       <strong>Gonçalo Marcelino</strong><br/>
       PhD student at UvA's MultiX lab and the NFI researching AI for AML 
