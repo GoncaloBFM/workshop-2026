@@ -63,7 +63,7 @@ For **PhD candidates and researchers**, we invite you to present your research d
 
 **Workshop date**  6 May 2026
 
-#Program committee
+# Program committee
 <ul class="pc-list">
   <li>
     <img src="/evert.jpeg">
