@@ -66,14 +66,14 @@ For **PhD candidates and researchers**, we invite you to present your research d
 #Program committee
 <ul class="pc-list">
   <li>
-    <img src="/evert.jpg">
+    <img src="/evert.jpeg">
     <div>
       <strong>Evert Haasdijk</strong><br>
       AI expert at Deloitte Forensic & Financial Crime and Professor of Applied AI for Preventing and Detecting Financial Crime at UvA
     </div>
   </li>
   <li>
-    <img src="goncalo.jpg">
+    <img src="goncalo.jpeg">
     <div>
       <strong>Gonçalo Marcelino</strong><br>
       PhD student at the MultiX Lab of UvA
