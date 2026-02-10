@@ -69,7 +69,8 @@ For **PhD candidates and researchers**, we invite you to present your research d
     <img src="/evert.jpeg">
     <div>
       <strong>Evert Haasdijk</strong><br>
-      AI expert at Deloitte Forensic & Financial Crime and Professor of Applied AI for Preventing and Detecting Financial Crime at UvA
+      AI expert at Deloitte Forensic & Financial Crime<br/>
+      Professor of Applied AI for Preventing and Detecting Financial Crime at UvA
     </div>
   </li>
   <li>
