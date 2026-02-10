@@ -23,9 +23,17 @@ main > h1 {
   margin-bottom: 16px;
 }
 
-.pc-list img {
-  width: 55px;
-  height: 55px;
+.pc-avatar {
+  width: 48px;
+  height: 48px;
   border-radius: 50%;
-  object-fit: cover;
+  overflow: hidden;          /* 🔑 crops the image */
+  flex-shrink: 0;
+}
+
+.pc-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;         /* 🔑 ensures square crop */
+  display: block;
 }
