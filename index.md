@@ -77,7 +77,7 @@ For **PhD candidates and researchers**, we invite you to present your research d
     <img src="goncalo.jpeg">
     <div>
       <strong>Gonçalo Marcelino</strong><br/>
-      PhD student at the MultiX Lab of UvA
+      PhD student at UvA's MultiX lab and the NFI researching AI for AML 
     </div>
   </li>
 </ul>
