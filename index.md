@@ -62,3 +62,21 @@ For **PhD candidates and researchers**, we invite you to present your research d
 **Notification of acceptance for poster presentations** 21 April 2026 
 
 **Workshop date**  6 May 2026
+
+**Program committee**
+<ul class="pc-list">
+  <li>
+    <img src="/assets/images/committee/alex-morgan.jpg">
+    <div>
+      <strong>Evert Haasdijk</strong><br>
+      AI expert at Deloitte Forensic & Financial Crime and Professor of Applied AI for Preventing and Detecting Financial Crime at UvA
+    </div>
+  </li>
+  <li>
+    <img src="/assets/images/committee/sara-nguyen.jpg">
+    <div>
+      <strong>Gonçalo Marcelino</strong><br>
+      PhD student at the MultiX Lab of UvA
+    </div>
+  </li>
+</ul>
