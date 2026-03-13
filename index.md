@@ -1,3 +1,5 @@
+<span style="color:darkred"><strong>Note: The workshop is now fully booked! We are trying to find a space to accommodate more participants. In the meantime, you are still encouraged to register. We will add you to the waiting list and notify you if a spot becomes available.</strong></span>
+
 The rapid evolution of global financial systems has provided new opportunities for sophisticated criminal networks. To counter these threats, it is no longer enough to develop isolated tools; we must build a unified front. 
 
 This workshop is dedicated to establishing a collaborative research and development ecosystem specifically focused on AI technology to combat financial crime.
