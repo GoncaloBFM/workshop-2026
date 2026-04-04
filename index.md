@@ -35,11 +35,12 @@ For **PhD candidates and researchers**, we invite you to present your research d
 |**09:00&nbsp;&#8209;&nbsp;09:30**| Registration & coffee                                                                                                                                 |
 |**09:30&nbsp;&#8209;&nbsp;09:45**| Opening remarks                                                                                                                                       |
 |**09:45&nbsp;&#8209;&nbsp;10:30**| Keynote - Daniël Meel<br/><br/> Daniël Meel is Head of Innovation, Design & Change, Detecting Financial Crime at ABN AMRO Bank                                                |
-|**10:30&nbsp;&#8209;&nbsp;10:40**| Break                                                                                                                                                 |
-|**10:40&nbsp;&#8209;&nbsp;11:25**| Keynote - Evert Haasdijk <br/><br/> Evert Haasdijk is an AI expert at Deloitte Forensic & Financial Crime and Professor of Applied AI for Preventing and Detecting Financial Crime at UvA |
-|**11:25&nbsp;&#8209;&nbsp;11:35**| Break                                                                                                                                                 |
-|**11:35&nbsp;&#8209;&nbsp;12:10**| Flash poster presentations                                                                                                                            |
-|**12:10&nbsp;&#8209;&nbsp;13:20**| Lunch & poster session                                                                                                                                |
+|**10:30&nbsp;&#8209;&nbsp;10:45**| Break                                                                                                                                                 |
+|**10:45&nbsp;&#8209;&nbsp;11:30**| Keynote - Evert Haasdijk <br/><br/> Evert Haasdijk is an AI expert at Deloitte Forensic & Financial Crime and Professor of Applied AI for Preventing and Detecting Financial Crime at UvA |
+|**11:30&nbsp;&#8209;&nbsp;11:45**| Break                                                                                                                                                 |
+|**11:45&nbsp;&#8209;&nbsp;12:05**| Presentation - Dr. Joras Ferwerda (UU) <br/><br/> Exploring The Effectiveness Of AI Tools To Detect Corruption Risk: A Case Study On Danish Public Procurements                                                                                                                            |
+|**12:05&nbsp;&#8209;&nbsp;12:25**| Dr. rer. nat. Erman Acar (UvA)  <br/><br/> A Hidden Formula for Fraud? Equation Discovery for Fraud Detection                                                                                                                            |
+|**12:25&nbsp;&#8209;&nbsp;13:25**| Lunch                                                                                                                                |
 
 
 
@@ -47,14 +48,14 @@ For **PhD candidates and researchers**, we invite you to present your research d
 
 | Time              | Session                          |
 | ----------------- | -------------------------------- |
-| **13:20&nbsp;&#8209;&nbsp;14:00** | Panel discussion                 |
-| **14:00&nbsp;&#8209;&nbsp;14:10** | Break                            |
-| **14:10&nbsp;&#8209;&nbsp;15:10** | Research presentations           |
+| **13:25&nbsp;&#8209;&nbsp;14:15** | Research presentations           |
+| **14:15&nbsp;&#8209;&nbsp;14:30** | Break                            |
+| **14:30&nbsp;&#8209;&nbsp;15:10** | Panel discussion           |
 | **15:10&nbsp;&#8209;&nbsp;15:20** | Break                            |
 | **15:20&nbsp;&#8209;&nbsp;16:00** | Breakout “sandpit” sessions      |
 | **16:00&nbsp;&#8209;&nbsp;16:20** | Report out from sandpit sessions |
 | **16:20&nbsp;&#8209;&nbsp;16:30** | Closing remarks                  |
-| **16:30&nbsp;&#8209;&nbsp;17:30** | Networking drinks 🍸             |
+| **16:30&nbsp;&#8209;&nbsp;17:30** | Networking drinks 🍸              |
 
 
 # Important Dates
