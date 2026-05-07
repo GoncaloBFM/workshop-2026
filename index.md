@@ -41,7 +41,7 @@ For **PhD candidates and researchers**, we invite you to present your research d
 |**10:45&nbsp;&#8209;&nbsp;11:30**| Keynote - Evert Haasdijk ([download slides](presentations/Evert.pdf)) <br/><br/> Evert Haasdijk is an AI expert at Deloitte Forensic & Financial Crime and Professor of Applied AI for Preventing and Detecting Financial Crime at UvA |
 |**11:30&nbsp;&#8209;&nbsp;11:45**| Break                                                                                                                                                 |
 |**11:45&nbsp;&#8209;&nbsp;12:05**| Presentation - Dr. Joras Ferwerda (UU) ([download slides](presentations/Ferwerda.pdf)) <br/><br/> Exploring The Effectiveness Of AI Tools To Detect Corruption Risk: A Case Study On Danish Public Procurements                                                                                                                            |
-|**12:05&nbsp;&#8209;&nbsp;12:25**| Dr. rer. nat. Erman Acar (UvA)  <br/><br/> A Hidden Formula for Fraud? Equation Discovery for Fraud Detection                                                                                                                            |
+|**12:05&nbsp;&#8209;&nbsp;12:25**| Dr. rer. nat. Erman Acar (UvA) ([download slides](presentations/Erman.pdf))  <br/><br/> A Hidden Formula for Fraud? Equation Discovery for Fraud Detection                                                                                                                            |
 |**12:25&nbsp;&#8209;&nbsp;13:25**| Lunch                                                                                                                                |
 
 
@@ -50,7 +50,7 @@ For **PhD candidates and researchers**, we invite you to present your research d
 
 | Time              | Session                          |
 | ----------------- | -------------------------------- |
-| **13:25&nbsp;&#8209;&nbsp;14:15** | Research presentations <br/><br/> - Sebastiaan Berendsen  <br/> - Nik Brouw <br/> - Gonçalo Marcelino ([download slides](presentations/Goncalo.pdf)) <br/> - Manos Roussos |
+| **13:25&nbsp;&#8209;&nbsp;14:15** | Research presentations <br/><br/> - Sebastiaan Berendsen ([download slides](presentations/Sebastiaan.pdf))  <br/> - Nik Brouw <br/> - Gonçalo Marcelino ([download slides](presentations/Goncalo.pdf)) <br/> - Manos Roussos |
 | **14:15&nbsp;&#8209;&nbsp;14:30** | Break                            |
 | **14:30&nbsp;&#8209;&nbsp;15:10** | Panel discussion           |
 | **15:10&nbsp;&#8209;&nbsp;15:20** | Break                            |
