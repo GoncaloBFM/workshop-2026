@@ -48,9 +48,7 @@ For **PhD candidates and researchers**, we invite you to present your research d
 
 | Time              | Session                          |
 | ----------------- | -------------------------------- |
-| **13:25&nbsp;&#8209;&nbsp;14:15** | Research presentations <br/><br/> <br/><br/> Sebastiaan Berendsen
- <br/><br/> Nik Brouw <br/><br/> Gonçalo Marcelino ([download slides](presentations/Goncalo.pdf))
- <br/><br/> Manos Roussos |
+| **13:25&nbsp;&#8209;&nbsp;14:15** | Research presentations <br/><br/> Sebastiaan Berendsen  <br/> Nik Brouw <br/> Gonçalo Marcelino ([download slides](presentations/Goncalo.pdf)) <br/> Manos Roussos |
 | **14:15&nbsp;&#8209;&nbsp;14:30** | Break                            |
 | **14:30&nbsp;&#8209;&nbsp;15:10** | Panel discussion           |
 | **15:10&nbsp;&#8209;&nbsp;15:20** | Break                            |
