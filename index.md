@@ -1,4 +1,6 @@
-<span style="color:darkred"><strong>Thank you for attending the event on 6 May 2026. Presentation slides are available for download in the program below.</strong></span>
+<span style="color:darkred"><strong>Thank you for attending the event on 6 May 2026. </strong></span> 
+
+<span style="color:darkred"><strong>Presentation slides are available for download in the program below.</strong></span>
 
 The rapid evolution of global financial systems has provided new opportunities for sophisticated criminal networks. To counter these threats, it is no longer enough to develop isolated tools; we must build a unified front. 
 
