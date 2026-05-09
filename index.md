@@ -36,7 +36,7 @@ For **PhD candidates and researchers**, we invite you to present your research d
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |**09:00&nbsp;&#8209;&nbsp;09:30**| Registration & coffee                                                                                                                                 |
 |**09:30&nbsp;&#8209;&nbsp;09:45**| Opening remarks                                                                                                                                       |
-|**09:45&nbsp;&#8209;&nbsp;10:30**| Keynote - Daniël Meel<br/><br/> Daniël Meel is Head of Innovation, Design & Change, Detecting Financial Crime at ABN AMRO Bank                                                |
+|**09:45&nbsp;&#8209;&nbsp;10:30**| Keynote - Daniël Meel ([download slides](presentations/Daniel.pdf))<br/><br/> Daniël Meel is Head of Innovation, Design & Change, Detecting Financial Crime at ABN AMRO Bank                                                |
 |**10:30&nbsp;&#8209;&nbsp;10:45**| Break                                                                                                                                                 |
 |**10:45&nbsp;&#8209;&nbsp;11:30**| Keynote - Evert Haasdijk ([download slides](presentations/Evert.pdf)) <br/><br/> Evert Haasdijk is an AI expert at Deloitte Forensic & Financial Crime and Professor of Applied AI for Preventing and Detecting Financial Crime at UvA |
 |**11:30&nbsp;&#8209;&nbsp;11:45**| Break                                                                                                                                                 |
