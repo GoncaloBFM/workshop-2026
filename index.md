@@ -2,6 +2,8 @@
 
 <span style="color:darkred"><strong>Presentation slides are available for download in the program below.</strong></span>
 
+<strong> <span style="color:darkred">A report summarizing the outcomes of the workshop can be found <a href="https://www.researchgate.net/publication/412386543_Outcomes_from_the_First_Dutch_Workshop_on_AI_to_Combat_Financial_Crime">here</a>. </span></strong>
+
 The rapid evolution of global financial systems has provided new opportunities for sophisticated criminal networks. To counter these threats, it is no longer enough to develop isolated tools; we must build a unified front. 
 
 This workshop is dedicated to establishing a collaborative research and development ecosystem specifically focused on AI technology to combat financial crime.
